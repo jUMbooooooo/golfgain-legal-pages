@@ -1,13 +1,26 @@
 # お問い合わせ
 
 制定日：2026年6月15日  
-最終改定日：2026年6月15日
+最終改定日：2026年10月6日
 
 GolfGain / ゴルフゲインに関するお問い合わせは、以下までご連絡ください。
 
+## ご意見・改善の提案
+
+「ここが使いづらい」「こんな機能がほしい」など、小さな気付きも歓迎です。
+
+<p><a href="https://forms.gle/RsyZthNEC1ytgaj1A" style="display:inline-block;padding:14px 20px;background:#0B3D2E;color:#fff;border-radius:8px;font-weight:700;text-decoration:none;">ご意見・改善の提案を送る ↗</a></p>
+
+- 内容だけで送れます。Googleへのログインは不要です。
+- 種類・気になった画面・返信先メールアドレスは任意です。返信を希望する方のみメールアドレスをご記入ください。
+- 回答はGolfGainの改善とお問い合わせへの対応に使用し、一般公開しません。
+- このフォームにはGoogleフォームを使用しています。情報の取り扱いは[GolfGainのプライバシーポリシー](privacy_policy.html)と[Googleのプライバシーポリシー](https://policies.google.com/privacy?hl=ja)をご確認ください。
+
+フォームが開けない場合や、画像を添えて伝えたい場合は、下記のメールをご利用ください。アカウント削除は専用の案内に沿ってメールでご依頼ください。
+
 ## 問い合わせ先
 
-メールアドレス：golf.gain.info@gmail.com
+メールアドレス：[golf.gain.info@gmail.com](mailto:golf.gain.info@gmail.com)
 
 ## 返信目安
 
