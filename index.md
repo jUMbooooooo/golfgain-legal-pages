@@ -4,8 +4,8 @@ GolfGain / ゴルフゲインは、ゴルフのラウンド、ショット、パ
 
 ## 法務関連ページ
 
-- [プライバシーポリシー](./legal/privacy_policy.md)
-- [利用規約](./legal/terms_of_service.md)
+- [プライバシーポリシー](./legal/privacy_policy.html)
+- [利用規約](./legal/terms_of_service.html)
 - [アカウント削除について](./legal/account_deletion.md)
 - [お問い合わせ](./legal/contact.md)
 
